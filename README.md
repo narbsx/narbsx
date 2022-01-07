@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @narbsx
+- 👋 Hi, I’m Joseph
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on large datasets.
 - 📫 How to reach me ...
 
 <!---
